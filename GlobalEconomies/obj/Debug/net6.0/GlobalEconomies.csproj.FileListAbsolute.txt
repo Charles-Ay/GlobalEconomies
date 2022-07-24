@@ -1,0 +1,15 @@
+C:\Users\CharlesAyeni\Documents\Fanshawe\INFO-3138-Declarative\Project2\GlobalEconomies\GlobalEconomies\obj\Debug\net6.0\GlobalEconomies.csproj.AssemblyReference.cache
+C:\Users\CharlesAyeni\Documents\Fanshawe\INFO-3138-Declarative\Project2\GlobalEconomies\GlobalEconomies\obj\Debug\net6.0\GlobalEconomies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CharlesAyeni\Documents\Fanshawe\INFO-3138-Declarative\Project2\GlobalEconomies\GlobalEconomies\obj\Debug\net6.0\GlobalEconomies.AssemblyInfoInputs.cache
+C:\Users\CharlesAyeni\Documents\Fanshawe\INFO-3138-Declarative\Project2\GlobalEconomies\GlobalEconomies\obj\Debug\net6.0\GlobalEconomies.AssemblyInfo.cs
+C:\Users\CharlesAyeni\Documents\Fanshawe\INFO-3138-Declarative\Project2\GlobalEconomies\GlobalEconomies\obj\Debug\net6.0\GlobalEconomies.csproj.CoreCompileInputs.cache
+C:\Users\CharlesAyeni\Documents\Fanshawe\INFO-3138-Declarative\Project2\GlobalEconomies\GlobalEconomies\bin\Debug\net6.0\GlobalEconomies.exe
+C:\Users\CharlesAyeni\Documents\Fanshawe\INFO-3138-Declarative\Project2\GlobalEconomies\GlobalEconomies\bin\Debug\net6.0\GlobalEconomies.deps.json
+C:\Users\CharlesAyeni\Documents\Fanshawe\INFO-3138-Declarative\Project2\GlobalEconomies\GlobalEconomies\bin\Debug\net6.0\GlobalEconomies.runtimeconfig.json
+C:\Users\CharlesAyeni\Documents\Fanshawe\INFO-3138-Declarative\Project2\GlobalEconomies\GlobalEconomies\bin\Debug\net6.0\GlobalEconomies.dll
+C:\Users\CharlesAyeni\Documents\Fanshawe\INFO-3138-Declarative\Project2\GlobalEconomies\GlobalEconomies\bin\Debug\net6.0\GlobalEconomies.pdb
+C:\Users\CharlesAyeni\Documents\Fanshawe\INFO-3138-Declarative\Project2\GlobalEconomies\GlobalEconomies\obj\Debug\net6.0\GlobalEconomies.dll
+C:\Users\CharlesAyeni\Documents\Fanshawe\INFO-3138-Declarative\Project2\GlobalEconomies\GlobalEconomies\obj\Debug\net6.0\refint\GlobalEconomies.dll
+C:\Users\CharlesAyeni\Documents\Fanshawe\INFO-3138-Declarative\Project2\GlobalEconomies\GlobalEconomies\obj\Debug\net6.0\GlobalEconomies.pdb
+C:\Users\CharlesAyeni\Documents\Fanshawe\INFO-3138-Declarative\Project2\GlobalEconomies\GlobalEconomies\obj\Debug\net6.0\GlobalEconomies.genruntimeconfig.cache
+C:\Users\CharlesAyeni\Documents\Fanshawe\INFO-3138-Declarative\Project2\GlobalEconomies\GlobalEconomies\obj\Debug\net6.0\ref\GlobalEconomies.dll
