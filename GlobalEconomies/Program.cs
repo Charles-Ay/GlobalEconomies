@@ -1,4 +1,6 @@
-﻿namespace GlobalEconomies
+﻿using System.IO;
+
+namespace GlobalEconomies
 {
     public class Program
     {
@@ -9,7 +11,16 @@
 
             int yearlow = 1980;
             int yearhigh = 1983;
-            XMLParser parser = new ("global_economies.xml");
+            XMLParser parser = null;
+            try
+            {
+               parser = new("global_economies.xml");
+            }
+            catch (Exception)
+            {
+                Console.WriteLine($@"Can not find file at {Directory.GetCurrentDirectory()}\global_economies.xml");
+                Environment.Exit(1);
+            }
             string numinp = "0";
             string inp = "";
             while (inp != "x")
