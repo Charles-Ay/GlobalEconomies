@@ -18,7 +18,7 @@ namespace GlobalEconomies
             }
             catch (Exception)
             {
-                Console.WriteLine($@"Can not find file at {Directory.GetCurrentDirectory()}\global_economies.xml");
+                Console.WriteLine($@"Can not find file: {Directory.GetCurrentDirectory()}\global_economies.xml");
                 Environment.Exit(1);
             }
             string numinp = "0";
